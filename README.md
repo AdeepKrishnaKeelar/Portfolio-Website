@@ -9,4 +9,4 @@ PHP (that's right, I use PHP, and I like it too!) part script to be added soon, 
 
 Link - https://adeepkrishnakeelar.github.io/Portfolio-Website/Index.html
 
-(DISCLAIMER - See it only on your system, don't be surprised if it doesn't render there... only brave people with steel guts check the site on their mobile devices... It looks worse than a tornado hit constrcution site...) 
+(DISCLAIMER - See it only on your system, don't be surprised if it doesn't render there... only brave people with steel guts check the site on their mobile devices... It looks worse than a tornado hit construction site...) 
