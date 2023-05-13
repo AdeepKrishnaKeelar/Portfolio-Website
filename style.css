@@ -66,6 +66,10 @@ h1 {
     background-color: aquamarine;
 }
 
+details {
+    overflow: hidden;
+}
+
 summary {
     text-align: center;
 }
